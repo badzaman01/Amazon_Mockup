@@ -1,0 +1,85 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 7%;
+}
+
+.sign_in_box {
+  border-style: ridge;
+  border-width: thin;
+  margin-top: 5%;
+  margin-right: 35%;
+  margin-left: 35%;
+}
+
+#sign_in_text {
+  font-family: "Times New Roman", Times, serif;
+  text-indent: 20px;
+  font-size: 30px;
+}
+
+#cap_text {
+  text-indent: 20px;
+}
+
+#forms_email {
+  text-indent: 20px;
+  margin: auto;
+}
+
+#forms_password {
+  text-indent: 20px;
+}
+
+#forgot_password {
+  color: blue;
+  text-indent: -140px;
+  float: right;
+}
+
+#password {
+  float: left;
+  text-indent: 68px;
+}
+
+#continue_btn {
+  background-color: orange;
+  border-style: groove;
+  text-align: center;
+  margin-left: 3.9%;
+  margin-right: 3.8%;
+}
+
+#need_help {
+  text-indent: 20px;
+  color: blue;
+}
+
+#break_line {
+  text-align: center;
+  word-break: break-all;
+  color: lightgray;
+}
+
+#create_btn {
+  background-color: lightgray;
+  border-style: groove;
+  text-align: center;
+  margin-left: 36%;
+  margin-right: 36%;
+}
+
+.footer {
+  text-align: center;
+  color: blue;
+}
+
+.footer p {
+  word-spacing: 20px;
+  display: inline-block;
+}
+
+#footer_cap {
+  text-align: center;
+}
